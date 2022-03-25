@@ -3,6 +3,7 @@ package java0323;
  * return 1 if num is factor of 10
  * 
  * testcommit
+ * changed to private
  */
 public class Prob01 {
 	static int res;
