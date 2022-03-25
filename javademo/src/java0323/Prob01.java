@@ -6,6 +6,7 @@ package java0323;
  * changed to private
  * wtf plz
  * gitbash
+ * commit using cmd in eclipse
  */
 public class Prob01 {
 	static int res;
