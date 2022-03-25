@@ -17,7 +17,7 @@ public class Prob06 {
 	public static void main(String[] args) {
 		int jumsu = 85;
 
-		// 여기에 작성하시오.
+		// 여기에 작성하f시오.
 		
 
 	}// end main( )
