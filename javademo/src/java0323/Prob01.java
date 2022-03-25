@@ -5,6 +5,7 @@ package java0323;
  * testcommit
  * changed to private
  * wtf plz
+ * gitbash
  */
 public class Prob01 {
 	static int res;
