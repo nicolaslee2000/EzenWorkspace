@@ -8,6 +8,7 @@ package java0323;
  * gitbashd
  * sshkeytest
  * commit using cmd in eclipse
+ * git push on other pc
  */
 public class Prob01 {
 	static int res;
