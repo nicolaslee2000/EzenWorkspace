@@ -5,7 +5,7 @@ package java0323;
  * testcommit
  * changed to private
  * wtf plz
- * gitbash
+ * gitbashd
  * commit using cmd in eclipse
  */
 public class Prob01 {
