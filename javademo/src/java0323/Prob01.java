@@ -9,7 +9,9 @@ package java0323;
  * sshkeytest
  * commit using cmd in eclipse
  * git push on other pc
+ * git commited through vs code 
  */
+
 public class Prob01 {
 	static int res;
 	public static void main(String[] args) {
