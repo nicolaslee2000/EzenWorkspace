@@ -4,7 +4,7 @@ import java.io.File;
 import java.util.HashSet;
 
 class TestClass {
-	HashSet<File> listOfFiles = new HashSet<File>();
+	HashSet<File> listOfFiles;
 	
 	//returns all files in the directory as a set
 	static HashSet<File> getAllFiles(File file) {

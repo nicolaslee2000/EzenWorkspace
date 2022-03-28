@@ -28,7 +28,6 @@ public class Test02 {
 	public static void main(String[] args) {
 		System.out.println(TestClass2.getAllFiles(new File("C:\\Users\\nicol\\Documents\\converting with java\\Testfolder")));
 		System.out.println(TestClass2.getAllFiles(new File("C:\\Users\\nicol\\Documents\\converting with java\\Testfolder\\javalec\\basic")));
-		
-		
+
 	}
 }

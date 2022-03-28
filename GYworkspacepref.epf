@@ -1,4 +1,4 @@
-#Fri Mar 25 12:50:20 KST 2022
+#Fri Mar 25 12:54:05 KST 2022
 \!/=
 /configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
 /configuration/org.eclipse.ui.ide/MAX_RECENT_WORKSPACES=10
@@ -118,7 +118,7 @@
 /instance/org.eclipse.jdt.ui/semanticHighlighting.methodDeclarationName.enabled=true
 /instance/org.eclipse.jdt.ui/semanticHighlighting.number.color=104,151,187
 /instance/org.eclipse.jdt.ui/semanticHighlighting.number.enabled=true
-/instance/org.eclipse.jdt.ui/semanticHighlighting.parameterVariable.color=255,255,255
+/instance/org.eclipse.jdt.ui/semanticHighlighting.parameterVariable.color=255,0,255
 /instance/org.eclipse.jdt.ui/semanticHighlighting.parameterVariable.enabled=true
 /instance/org.eclipse.jdt.ui/semanticHighlighting.restrictedKeywords.bold=false
 /instance/org.eclipse.jdt.ui/semanticHighlighting.restrictedKeywords.color=255,128,0
@@ -314,7 +314,7 @@
 /instance/org.eclipse.ui.workbench/terminal.views.view.font.definition=1|Consolas|12.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Consolas;
 /instance/org.eclipse.ui/showIntro=false
 /instance/org.eclipse.urischeme/processedSchemes=,eclipse+mpc,eclipse+command
-/instance/org.eclipse.wst.css.core/outputCodeset=UTF-16
+/instance/org.eclipse.wst.css.core/outputCodeset=UTF-8
 /instance/org.eclipse.wst.css.ui/ATMARK_RULE=\#A7EC21 | null | null | null | null | null
 /instance/org.eclipse.wst.css.ui/ATTRIBUTE_DELIM=\#f7c517 | null | false | false | false | false
 /instance/org.eclipse.wst.css.ui/ATTRIBUTE_NAME=\#f7c517 | null | false | false | false | false
