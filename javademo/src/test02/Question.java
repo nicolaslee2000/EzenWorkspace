@@ -32,7 +32,7 @@ public class Question {
 		System.out.println(ea instanceof ExamB);
 		System.out.println(ea instanceof ExamA);
 		//
-		
+		 
 	}
 	public static void watchTv(HomeTv tv) {
 		tv.watching();
