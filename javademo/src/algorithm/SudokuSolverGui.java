@@ -110,7 +110,7 @@ class SudokuGui extends JFrame{
 			
 			public void actionPerformed(ActionEvent e) {
 				if(!isSet) return;
-				solver.solve(1,0,0);
+				solver.solve();
 				board = solver.getBoard();
 				for(int k = 0; k < SIZE; k++) {
 					for(int g = 0; g < SIZE; g++) {
