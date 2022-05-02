@@ -46,14 +46,3 @@ class Department {
 	
 	
 }
-interface animal {
-	String eat();
-}
-class dog implements animal {
-	public String eat() {
-		return "banana";
-	}
-}
-class Chi extends dog {
-	String name;
-}
