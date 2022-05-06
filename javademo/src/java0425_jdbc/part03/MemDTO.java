@@ -1,10 +1,14 @@
 package java0425_jdbc.part03;
 
+import lombok.Data;
+
+@Data
 public class MemDTO {
 	private int num;
 	private String name;
 	private int age;
 	private String loc;
+<<<<<<< HEAD
 	public MemDTO () {
 		
 	}
@@ -44,5 +48,7 @@ public class MemDTO {
 	public String toString() {
 		return "MemDTO [num=" + num + ", name=" + name + ", age=" + age + ", loc=" + loc + "]";
 	}
+=======
+>>>>>>> a645db5f9da84ae5b56d6824431fadda48f5e28d
 	
 }

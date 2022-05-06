@@ -39,4 +39,9 @@ class Department {
 				+ location_id + "]";
 	}
 	
+<<<<<<< HEAD
 }
+=======
+	
+}
+>>>>>>> a645db5f9da84ae5b56d6824431fadda48f5e28d
