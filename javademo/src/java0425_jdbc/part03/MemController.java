@@ -9,7 +9,11 @@ public class MemController {
 	}
 	public void listMembersProcess() {
 		MemDAO dao = MemDAO.getInstance();
-		List<MemDTO> list = dao.listMembers();
-		list.forEach(System.out::println);
+//		List<MemDTO> list = dao.listMembers();
+//		list.forEach(System.out::println);
+		
+		dao.insertMembers(new MemDTO("song", 20, "washington"));
 	}
 }
+
+

@@ -8,6 +8,14 @@ public class MemDTO {
 	public MemDTO () {
 		
 	}
+	
+	public MemDTO(String name, int age, String loc) {
+		super();
+		this.name = name;
+		this.age = age;
+		this.loc = loc;
+	}
+
 	public int getNum() {
 		return num;
 	}
